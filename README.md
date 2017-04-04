@@ -11,6 +11,9 @@ Collector Banks annual shopping list for github merchandise
  * Arctocat L
 ### Mats
  * water bottle
+ * sticker pack two
+ * contribution mug
+ * invertocat cat hoodie Large
 ### stjepan
  * Octopolo Shirt - Linear/Men's XL 1st
 ### Adnan
