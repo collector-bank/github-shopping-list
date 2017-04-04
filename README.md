@@ -11,3 +11,6 @@ Collector Banks annual shopping list for github merchandise
  * Arctocat L
 ### Mats
  * water bottle
+ * sticker pack
+ * contribution mug
+ * invertocat cat hoodie Large
