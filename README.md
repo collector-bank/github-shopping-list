@@ -14,4 +14,4 @@ Collector Banks annual shopping list for github merchandise
 
 ### Adnan
 * water bottle
-* Invertocat hoodie 2XL
+* Invertocat hoodie XL
