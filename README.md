@@ -18,3 +18,5 @@ Collector Banks annual shopping list for github merchandise
 * Invertocat hoodie 2XL
 ### Jim
  * water bottle
+#### Sture & Nils
+ * Sticker pack 1
